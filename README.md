@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+meu nome é monike oliveira, tenho 16 aninhos
+eu estudando o alura
 <!--
 **monikeoliveira2008/monikeoliveira2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
